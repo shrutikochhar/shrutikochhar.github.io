@@ -1,0 +1,15 @@
+---
+title: "Talk on Epi-LSTM"
+collection: talks
+type: "Talk"
+permalink: /talks/epilstm
+venue: "Epigenetics Meeting, MLCB"
+date: 2019-12-13
+location: "Online"
+---
+
+1. The Canadian Epigenetics, Environment and Health Research Consortium (CEEHRC) partners with the International Human Epigenome Consortium (IHEC) to host the IHEC Annual Meeting and the 6th Canadian Conference on Epigenetics. 
+
+2. The 14th Machine Learning in Computational Biology (MLCB) meeting. 
+
+The talks were about Epi-LSTM: A recurrent neural network model that builds cell type-agnostic representations of the human epigenome. 
