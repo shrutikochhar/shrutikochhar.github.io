@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D. in Electrical and Computer Engineering (Thesis: Computational Models for Genomic Representations), The University of British Columbia, Vancouver, 2022 (expected)
-* M.A.Sc. in Electrical and Computer Engineering (Thesis: A hybrid precoding and signal detection framework for future wireless systems), The University of British Columbia, Vancouver, 2022
+* M.A.Sc. in Electrical and Computer Engineering, The University of British Columbia, Vancouver, 2022
 * B.Tech. in Electronics and Communication Enginnering, National Institute of Technology Karnataka, India, 2017 
 
 Work experience
