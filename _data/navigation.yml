@@ -7,7 +7,7 @@ main:
     url: /publications/  
 
   - title: "Writing"
-  url: /year-archive/
+    url: /year-archive/
 
   - title: "Teaching"
     url: /teaching/    
