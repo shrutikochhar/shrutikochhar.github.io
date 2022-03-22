@@ -2,7 +2,7 @@
 title: "ELEC 481: Economic Analysis of Engineering Projects"
 collection: teaching
 type: "Course"
-permalink: /teaching/economicsengg
+permalink: /teaching/economics-engg
 venue: "The University of British Columbia, Department of ECE"
 date: 2020-06-18
 location: "Vancouver, Canada"
