@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : ""
-  avatar           : "kevin_shales.jpg"
+  avatar           : "kevin_shales"
   bio              : "Ph.D. student studying Computational Genomics"
   location         : "Vancouver"
-  employer         : "The University of British Columbia"
-  pubmed           : ""
+  employer         : "University of British Columbia"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=X7m9o7oAAAAJ&hl=en"
   email            :
   uri              :
