@@ -14,8 +14,6 @@ The talks were about Epi-LSTM: A recurrent neural network model that builds cell
 2. The 14th Machine Learning in Computational Biology (MLCB) meeting. 
 
 
-### Poster 
-<p align="center">
-<img align="center" src="https://github.com/kevinbdsouza/kevinbdsouza.github.io/tree/master/files/poster_epilstm.png?raw=true">
-</p>
+<a href="{{ https://github.com/kevinbdsouza/kevinbdsouza.github.io/tree/master/files/poster_epilstm.png }}"><u>Poster</u></a>
+
 

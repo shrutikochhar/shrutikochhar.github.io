@@ -15,10 +15,7 @@ The talks were about Hi-C-LSTM: a contact generation framework that forms Hi-C i
 3. The 16th Machine Learning in Computational Biology (MLCB) meeting.
 
 
-### Poster 
-<p align="center">
-<img align="center" width=400 height=300 src="https://github.com/kevinbdsouza/kevinbdsouza.github.io/tree/master/files/poster_hiclstm.png">
-</p>
+<a href="{{ https://github.com/kevinbdsouza/kevinbdsouza.github.io/tree/master/files/poster_hiclstm.png }}"><u>Poster</u></a>
 
 
 
