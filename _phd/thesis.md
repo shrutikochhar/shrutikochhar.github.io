@@ -3,7 +3,7 @@ title: "Unification of Genomic Representations"
 collection: phd
 type: "Proposal"
 about: "Thesis"
-permalink: /phd/hiclstm
+permalink: /phd/thesis
 date: 2020-10-05
 ---
 
