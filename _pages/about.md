@@ -14,8 +14,11 @@ I completed my M.A.Sc while working with the information theory group at UBC. Du
 
 After my M.A.Sc I moved on to jointly work with the computational biology group at Simon Fraser University for my Ph.D. At <a href="https://www.libbrechtlab.com"><u>Libbrecht lab</u></a> we are currently working on building representations for the genome. Representation Learning has been quite successful in a variety of settings in computer science, and we believe that genomic representations will have a similar impact on computational genomics in the coming decade. My thesis aims to unify recurrent and graph neural networks for learning representations of epigenomic signals (<a href="https://kevinbdsouza.github.io/publication/epilstm"><u>published work</u></a>) and 3D genome organization (<a href="https://kevinbdsouza.github.io/publication/hiclstm"><u>published work</u></a>). The representations from our models are useful for a variety of tasks like element identification, novel element detection, transfer learning to unseen cell types, and in-silico modifications. The software for my research is written mostly in Python using PyTorch and CUDA extensively. The software packages resulting from this work are avaialale on <a href="https://github.com/kevinbdsouza"><u>GitHub</u></a>. We are working on cloud based deployment using GCP/AWS for future releases. 
 
+Apart from my Ph.D., I spend most of my spare time engaged in/working on/thinking about the following:
+1. Creating support systems for children with autism spectrum disorder (ASD).
+2. Everything related to climate change, including (a) physics and ML based climate modeling, (b) international collaboration and climate ploicy, (c) climate technolgies like CCS, DAC, and (d) alternative economic systems for the future. I'm very interested in (d) and I'm currently reading about/looking into multi-agent systems simulations that can give insight into alternative economic theories by optimizing for metrics other than GDP.
+3. Molecular representation learning for individual nulceotide molecules. Graph learning for drug discovery. 
+4. Astrophysics and Astrobiology. 
+5. Reading. 
 
-
-
-
-
+You can reach out to me if you want to discuss or work together on any of the above, and any book/article recommendations you may have are always welcome.
