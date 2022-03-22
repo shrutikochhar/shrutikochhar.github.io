@@ -1,7 +1,7 @@
 ---
 title: 'Are we explorers or caretakers?'
 date: 2018-03-03
-permalink: /posts/2018/03/areweexplorersorcaretakers
+permalink: /posts/2018/03/are-we-explorers-or-caretakers
 tags:
   - environment
   - climate change
