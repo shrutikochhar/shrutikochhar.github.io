@@ -85,11 +85,34 @@ author:
   bio              : "Ph.D. student studying Computational Genomics"
   location         : "Vancouver"
   employer         : "The University of British Columbia"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=X7m9o7oAAAAJ&hl=en"
-  email            : "kevinbradsouza@gmail.com"
+  email            :
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
   github           : "https://github.com/kevinbdsouza"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           :
   linkedin         : "https://www.linkedin.com/in/kevin-bradley-dsouza/"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
   twitter          : "https://twitter.com/kevthesouza"
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
 
 
 # Reading Files
