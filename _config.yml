@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : ""
+  name             : 
   avatar           : "kevin_shales"
   bio              : "Ph.D. student studying Computational Genomics"
   location         : "Vancouver"
