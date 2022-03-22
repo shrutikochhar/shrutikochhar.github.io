@@ -6,11 +6,17 @@ main:
   - title: "Publications"
     url: /publications/  
 
-  - title: "Writing"
-    url: /year-archive/
+  - title: "PhD"
+    url: /phd/
+
+  - title: "Projects"
+    url: /projects/
 
   - title: "Teaching"
     url: /teaching/   
 
   - title: "Talks"
     url: /talks/  
+
+  - title: "Writing"
+    url: /year-archive/

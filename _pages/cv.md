@@ -21,7 +21,7 @@ Work experience
 ======
 * ## Ph.D. Research Assistant, The University of British Columbia <span style="color:#2C4381">(Jan 2019 - Current)</span>
   * Currently working on building representations for the genome, mainly epigenomic and Hi-C representations 
-  * My thesis aims to unify recurrent and graph neural networks for learning representations of epigenomic signals (<a href="https://kevinbdsouza.github.io/publication/epilstm"><u>published work</u></a>) and 3D genome organization (<a href="https://kevinbdsouza.github.io/publication/hiclstm"><u>published work</u></a>)
+  * My thesis aims to unify recurrent and graph neural networks for learning representations of epigenomic signals (<a href="https://kevinbdsouza.github.io/publication/epilstm"><u>published work</u></a>) and 3D genome organization (<a href="https://kevinbdsouza.github.io/publication/hiclstm"><u>submitted work</u></a>)
   * The representations from our models are useful for a variety of tasks like pan-celltype element identification, novel element detection, transfer learning to unseen cell types, inference of 3D chromatin structure, and in-silico modifications.
   * The software for my research is written mostly in Python using PyTorch and CUDA extensively. The software packages resulting from this work are avaialale on <a href="https://github.com/kevinbdsouza"><u>GitHub</u></a>. We are working on cloud based deployment using GCP/AWS for future releases.
   * **Supervisor**: Prof. Maxwell Libbrecht (<a href="https://www.libbrechtlab.com"><u>Libbrecht lab</u></a>) and Prof. Vijay Bhargava

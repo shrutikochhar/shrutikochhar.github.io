@@ -5,6 +5,7 @@ permalink: /posts/2018/03/are-we-explorers-or-caretakers
 tags:
   - environment
   - climate change
+  - space exploration
 ---
 
 Interstellar is one of those movies that left me wondering about the possibilities of science fiction storytelling. Though the science behind the film is questionable and is visited in <a href="https://www.popsci.com/article/technology/surprising-science-behind-movie-interstellar/"><u>The science behind Interstellar</u></a>, from the breathtaking visuals to the pulsating background score, I’m sure it left us all wanting to be explorers of space.
