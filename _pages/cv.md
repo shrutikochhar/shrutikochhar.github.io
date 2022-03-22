@@ -40,7 +40,7 @@ Skills
 * Coding 
   * Python, R, C, C++, Linux, Git, MySQL, PostgreSQL
 * Machine Learning 
-  * Deep Learning, Sequential Models, Representation Learning, Statistics, Regression, Random Forests, Natural Language Processing
+  * Deep Learning, Sequential Models, Representation Learning, Statistics, Regression, Random Forests
 * ML tools 
   * PyTorch, GCP, CUDA, AWS, BigQuery, Numpy, Pandas, Scipy, Scikit-learn, Jupyter
 * Data Science 
@@ -72,11 +72,14 @@ Service
 ======
 * Joint-Secretary at Autism Society of Udupi (ASU)
   * ASU is a non-profit organisation in Udupi, India, that aims to create awareness about Autism among parents, teachers, health professionals, students, general public and all the stakeholders so that early diagnosis and early intervention could give the child maximum benefits. 
+  * Currently working alongside primary schools to educate teachers about autism. Partnering with various organisations working towards similar causes. 
 * Mentor at Climate Hub, UBC
+  * The UBC Climate Hub aims to connect university and community stakeholders to take bold climate action for a just and equitable future.
   * Worked with undergraduate students to find interdisciplinary climate solutions and contribute to climate awareness.
 * Mentor at iGEM, UBC
-  * Worked with undergraduate students to develop synthetic biology solutions.
+  * The International Genetically Engineered Machines (iGEM) Competition aims to produce organisms with unusual properties to tackle modern problems using synthetic biology. 
+  * Worked with undergraduate students to a transcription-based biosensor to detect levels of saxitoxin, a toxin responsible for paralytic shellfish poisoning in humans. 
 * Volunteer at Lets Talk Science
-  * Mentoring high school students to inculcate in them aptitude and curiosity towards science.
+  * Mentored high school students to inculcate in them aptitude and curiosity towards science.
 * Volunteer at Geneskool, Genome BC
   * Conducted workshops on the basics of genetics, traits and phenotypes for elementary grade students.
