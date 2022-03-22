@@ -17,7 +17,7 @@ The talks were about Hi-C-LSTM: a contact generation framework that forms Hi-C i
 
 ### Poster 
 <p align="center">
-<img align="center" src="https://github.com/kevinbdsouza/kevinbdsouza.github.io/tree/master/files/poster_hiclstm.png?raw=true">
+<img align="center" width=300 height=200 src="https://github.com/kevinbdsouza/kevinbdsouza.github.io/tree/master/files/poster_hiclstm.png?raw=true">
 </p>
 
 
