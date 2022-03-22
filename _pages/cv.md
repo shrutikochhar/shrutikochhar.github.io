@@ -17,19 +17,19 @@ Education
 
 Work experience
 ======
-* **## Ph.D. Research Assistant**, The University of British Columbia (Jan 2019 - Current) 
+* ## Ph.D. Research Assistant, The University of British Columbia (Jan 2019 - Current) 
   * **Work**: Building epigenomic and Hi-C representations using sequential and graphical deep learning
     models. These representations are useful for pan-celltype classification of genomic
     phenomena, in-silico mutagenesis, and inference of 3D chromatin structure.
   * **Supervisor**: Prof. Maxwell Libbrecht and Prof. Vijay Bhargava
 
-* **## Machine Learning Intern**, Skycope Technologies (May 2018 - Sep 2018)
+* ## Machine Learning Intern, Skycope Technologies (May 2018 - Sep 2018)
   * **Work**: Built a deep learning framework for signal detection which outperformed traditional signal
     processing methods. This signal detection framework helped Skycope detect narrow
     band drone signals in a wideband capture and block them.
   * **Supervisor**: Hamidreza Boostanimehr
 
-* **## M.A.Sc. Research Assistant**, The University of British Columbia (Sep 2017 - Dec 2018)
+* ## M.A.Sc. Research Assistant, The University of British Columbia (Sep 2017 - Dec 2018)
   * **Work**: Adopted deep learning frameworks for wireless signal detection and developed hybrid
     precoding schemes for sequential wireless data.
   * **Supervisor**: Prof. Vijay Bhargava
