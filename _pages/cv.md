@@ -44,12 +44,29 @@ Skills
   * Python
   * R
   * C
+  * C++
   * Linux
+  * Git
+  * MySQL
+  * PostgreSQL
 * Machine Learning 
-  * PyTorch
   * Deep Learning 
   * Sequential Models
   * Statistics 
+  * Regression
+  * Random Forests
+  * Natural Language Processing
+* ML tools 
+  * PyTorch
+  * GCP
+  * CUDA 
+  * AWS
+  * BigQuery
+  * Numpy
+  * Pandas
+  * Scipy
+  * Scikit-learn
+  * Jupyter
 * Data Science 
 * Bioinformatics
 * Software Development 
@@ -80,7 +97,7 @@ Teaching
 Service 
 ======
 * Joint-Secretary of Autism Society of Udupi (ASU)
-  * ASU .
+  * ASU is a non-profit organisation in Udupi, India, that aims to create awareness about Autism among parents, teachers, health professionals, students, general public and all the stakeholders so that early diagnosis and early intervention could give the child maximum benefits. 
 * Mentor at Climate Hub, UBC
   * Worked with undergraduate students to find interdisciplinary climate solutions and contribute to climate awareness.
 * Mentor at iGEM, UBC
