@@ -2,7 +2,7 @@
 title: "Talk on Epi-LSTM"
 collection: talks
 type: "Talk"
-permalink: /talks/epigenetics_meeting
+permalink: /talks/epigeneticsmeeting
 venue: "Epigenetics Meeting"
 date: 2019-11-14
 location: "San Francisco, California"
