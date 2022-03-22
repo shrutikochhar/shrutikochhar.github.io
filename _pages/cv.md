@@ -11,30 +11,53 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Electrical and Computer Engineering (Thesis: Computational Models for Genomic Representations), The University of British Columbia, Vancouver, 2022 (expected)
+* M.A.Sc. in Electrical and Computer Engineering (Thesis: A hybrid precoding and signal detection framework for future wireless systems), The University of British Columbia, Vancouver, 2022
+* B.Tech. in Electronics and Communication Enginnering, National Institute of Technology Karnataka, India, 2017 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jan 2019 - Current: Ph.D. Research Assistant
+  * The University of British Columbia 
+  * Work: Building epigenomic and Hi-C representations using sequential and graphical deep learning
+    models. These representations are useful for pan-celltype classification of genomic
+    phenomena, in-silico mutagenesis, and inference of 3D chromatin structure.
+  * Supervisor: Prof. Maxwell Libbrecht and Prof. Vijay Bhargava
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May 2018 - Sep 2018: Machine Learning Intern
+  * Skycope Technologies
+  * Work: Built a deep learning framework for signal detection which outperformed traditional signal
+    processing methods. This signal detection framework helped Skycope detect narrow
+    band drone signals in a wideband capture and block them.
+  * Supervisor: Hamidreza Boostanimehr
+
+* Sep 2017 - Dec 2018: M.A.Sc. Research Assistant
+  * The University of British Columbia
+  * Work: Adopted deep learning frameworks for wireless signal detection and developed hybrid
+    precoding schemes for sequential wireless data.
+  * Supervisor: Prof. Vijay Bhargava
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Coding 
+  * Python
+  * R
+  * C
+  * Linux
+* Machine Learning 
+  * PyTorch
+  * Deep Learning 
+  * Sequential Models
+  * Statistics 
+* Data Science 
+* Bioinformatics
+* Software Development 
+* Biology 
+  * Chromatin Structure
+  * Epigenomics 
+  * RNA-seq
+
 
 Publications
 ======
