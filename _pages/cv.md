@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* ## Ph.D. Research Assistant, The University of British Columbia <span style="color:blue">(Jan 2019 - Current) </span>
+* ## Ph.D. Research Assistant, The University of British Columbia <span style="color:#10214E">(Jan 2019 - Current) </span>
   * **Work**: Building epigenomic and Hi-C representations using sequential and graphical deep learning
     models. These representations are useful for pan-celltype classification of genomic
     phenomena, in-silico mutagenesis, and inference of 3D chromatin structure.
