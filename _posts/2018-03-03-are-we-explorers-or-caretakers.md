@@ -20,7 +20,7 @@ In the words of reviewer for the Guardian, George Monbiot, “an epigraph of our
 I am a firm believer that technological advancement in general leaves a positive impression on society. Anyone who claims that the yesteryears were happier and more prosperous than current times is only being delusional and falling prey to misplaced sense of nostalgia. Forbes covers this in detail in its article on <a href="https://www.forbes.com/sites/stevedenning/2017/11/30/why-the-world-is-getting-better-why-hardly-anyone-knows-it/?sh=6ba7a2a47826"><u>why the world is getting better?</u></a>
 
 <p align="center">
-<img align="center" src="https://github.com/kevinbdsouza/kevinbdsouza.github.io/tree/master/files/data_poverty.png?raw=true">
+<img align="center" src="https://github.com/kevinbdsouza/kevinbdsouza.github.io/blob/master/files/data_poverty.png?raw=true">
 </p>
 
 But there is certainly something different that we see in the trajectory of technological innovation of today when compared to the past. Never before have we had the tools to achieve things that could only be considered science fiction a few decades ago. From CRISPR and LIGO to self driving cars and space exploration, we are poised to take decisions that might effect all our lives in the coming century.
@@ -32,13 +32,13 @@ A recent article on <a href="https://www.technologyreview.com/s/609642/the-year-
 A 2009 study by an international group of scientists led by Stockholm Resilience Centre (<a href="https://www.ecologyandsociety.org/vol14/iss2/art32/"><u>Rockström, et al., 2009</u></a>) identified nine critical planetary boundaries that we need to pay attention to if we want to lead a sustainable life on the planet. Three of those boundaries have already been breached.
 
 <p align="center">
-<img align="center" src="https://github.com/kevinbdsouza/kevinbdsouza.github.io/tree/master/files/rockstrom.png?raw=true">
+<img align="center" src="https://github.com/kevinbdsouza/kevinbdsouza.github.io/blob/master/files/rockstrom.png?raw=true">
 </p>
 
 There have been collective efforts to combat climate change. The United nations sustainable development goals states clearly how important it is for us to acknowledge and work towards this problem. Rapid adaptation of renewables, global effort to reduce emissions and massive afforestation efforts are some of the things that are going to get us there and some countries have already started adopting them. Europe leads in <a href="https://www.climaterealityproject.org/blog/follow-leader-how-11-countries-are-shifting-renewable-energy"><u>renewable production</u></a> and is a model for the rest of the world to follow.
 
 <p align="center">
-<img align="center" src="https://github.com/kevinbdsouza/kevinbdsouza.github.io/tree/master/files/circular.png?raw=true">
+<img align="center" src="https://github.com/kevinbdsouza/kevinbdsouza.github.io/blob/master/files/circular.png?raw=true">
 </p>
 
 However, restricting ourselves to this while following outdated economic systems won’t be a sustainable solution. We need to incentivize circular economy and build our economic models around it. We need to make smart use of our available resources for as long as possible, and then regenerate products at the end of the service life. Our economic systems might not be the our best bets as we move forward into an era of AI and automation. Yanis Varafoukis elaborates this in his Ted talk about how <a href="https://www.ted.com/talks/yanis_varoufakis_capitalism_will_eat_democracy_unless_we_speak_up?utm_source=twitter.com&utm_medium=social&utm_campaign=tedspread
