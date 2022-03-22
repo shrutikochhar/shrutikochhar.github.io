@@ -1,7 +1,7 @@
 ---
 title: "CPEN 491: ECE final year undergraduate Capstone design project"
 collection: teaching
-type: "Project"
+type: "Projects"
 permalink: /teaching/capstone
 venue: "The University of British Columbia, Department of ECE"
 date: 2019-09-01
