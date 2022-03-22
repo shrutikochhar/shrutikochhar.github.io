@@ -77,6 +77,15 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service 
 ======
-* Currently signed in to 43 different slack teams
+* Joint-Secretary of Autism Society of Udupi (ASU)
+  * ASU .
+* Mentor at Climate Hub, UBC
+  * Worked with undergraduate students to find interdisciplinary climate solutions and contribute to climate awareness.
+* Mentor at iGEM, UBC
+  * Worked with undergraduate students to develop synthetic biology solutions.
+* Volunteer at Lets Talk Science
+  * Mentoring high school students to inculcate in them aptitude and curiosity towards science.
+* Volunteer at Geneskool, Genome BC
+  * Conducted workshops on the basics of genetics, traits and phenotypes for elementary grade students.
