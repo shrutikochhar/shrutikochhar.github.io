@@ -3,13 +3,13 @@ title: "Hi-C-LSTM: Learning representations of chromatin contacts using a recurr
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
+date: 2021-10-01
+venue: 'Nature Communications'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+citation: 'Dsouza, K., Maslova, A., Al-Jibury, E., Merkenschlager, M., Bhargava, V., & Libbrecht, M. (2021). Hi-C-LSTM: Learning representations of chromatin contacts using a recurrent neural network identifies genomic drivers of 3D genome conformation.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+Despite the availability of chromatin conformation capture experiments, discerning the relationship between the 1D genome and 3D conformation remains a challenge, which limits our understanding of their affect on gene expression and disease. We propose Hi-C-LSTM, a method that produces low-dimensional latent representations that summarize intra-chromosomal Hi-C contacts via a recurrent long short-term memory (LSTM) neural network model. We find that these representations contain all the information needed to recreate the observed Hi-C matrix with high accuracy, outperforming existing methods. These representations enable the identification of a variety of conformation-defining genomic elements, including nuclear compartments and conformation-related transcription factors. They furthermore enable in-silico perturbation experiments that measure the influence of cis-regulatory elements on conformation. 
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download preprint here](https://assets.researchsquare.com/files/rs-878825/v1_covered.pdf?c=1633106140)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Dsouza, K., Maslova, A., Al-Jibury, E., Merkenschlager, M., Bhargava, V., & Libbrecht, M. (2021). Hi-C-LSTM: Learning representations of chromatin contacts using a recurrent neural network identifies genomic drivers of 3D genome conformation.
