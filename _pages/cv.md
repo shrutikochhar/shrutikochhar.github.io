@@ -13,27 +13,30 @@ I am a final year Ph.D. student at the University of British Columbia working on
 
 Education
 ======
-* Ph.D. in Electrical and Computer Engineering (Thesis: Computational Models for Genomic Representations), The University of British Columbia, Vancouver, 2022 (expected)
+* Ph.D. in Electrical and Computer Engineering (<span style="color:#2C4381">Thesis: Computational Models for Genomic Representations)</span>, The University of British Columbia, Vancouver, 2022 (expected)
 * M.A.Sc. in Electrical and Computer Engineering, The University of British Columbia, Vancouver, 2022
 * B.Tech. in Electronics and Communication Enginnering, National Institute of Technology Karnataka, India, 2017 
 
 Work experience
 ======
 * ## Ph.D. Research Assistant, The University of British Columbia <span style="color:#2C4381">(Jan 2019 - Current)</span>
-  * **Work**: Building epigenomic and Hi-C representations using sequential and graphical deep learning
-    models. These representations are useful for pan-celltype classification of genomic
-    phenomena, in-silico mutagenesis, and inference of 3D chromatin structure.
-  * **Supervisor**: Prof. Maxwell Libbrecht and Prof. Vijay Bhargava
+  * Currently working on building representations for the genome, mainly epigenomic and Hi-C representations 
+  * My thesis aims to unify recurrent and graph neural networks for learning representations of epigenomic signals (<a href="https://kevinbdsouza.github.io/publication/epilstm"><u>published work</u></a>) and 3D genome organization (<a href="https://kevinbdsouza.github.io/publication/hiclstm"><u>published work</u></a>)
+  * The representations from our models are useful for a variety of tasks like pan-celltype element identification, novel element detection, transfer learning to unseen cell types, inference of 3D chromatin structure, and in-silico modifications
+  * The software for my research is written mostly in Python using PyTorch and CUDA extensively. The software packages resulting from this work are avaialale on <a href="https://github.com/kevinbdsouza"><u>GitHub</u></a>. We are working on cloud based deployment using GCP/AWS for future releases
+  * **Supervisor**: Prof. Maxwell Libbrecht (<a href="https://www.libbrechtlab.com"><u>Libbrecht lab</u></a>) and Prof. Vijay Bhargava
 
 * ## Machine Learning Intern, Skycope Technologies <span style="color:#2C4381"> (May 2018 - Sep 2018)</span>
-  * **Work**: Built a deep learning framework for signal detection which outperformed traditional signal
-    processing methods. This signal detection framework helped Skycope detect narrow
-    band drone signals in a wideband capture and block them.
+  * Built Skycope's data and machine learning infrastructure 
+  * Set up their database server and backend MySQL software for data extraction and manipulation 
+  * and integrate it into their existing software stack. 
+  * Modified Faster-RCNN, an existing object detection framework, to successfully detect and locate drone signals in the spectrogram (<a href="https://kevinbdsouza.github.io/publication/frcnn"><u>published work</u></a>)
+  * Skycope is now using this as their flagship service in their automatic drone detection software
   * **Supervisor**: Hamidreza Boostanimehr
 
 * ## M.A.Sc. Research Assistant, The University of British Columbia <span style="color:#2C4381"> (Sep 2017 - Dec 2018)</span>
-  * **Work**: Adopted deep learning frameworks for wireless signal detection and developed hybrid
-    precoding schemes for sequential wireless data.
+  * Adopted deep learning frameworks for signal detection and developed hybrid precoding schemes for sequential data
+  * Used Python, PyTorch, and CUDA for deep learning. Hybrid precoding schemes were developed in C and MATLAB.
   * **Supervisor**: Prof. Vijay Bhargava
 
   
