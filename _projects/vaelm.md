@@ -1,11 +1,18 @@
 ---
-title: "Hi-C-LSTM: Learning representations of chromatin contacts using a recurrent neural network identifies genomic drivers of conformation"
+title: "Character Based Language Models Through Variational Sentence and Word Embeddings"
 collection: projects
-status: revision
-permalink: /projects/hiclstm
-excerpt: 'Despite the availability of chromatin conformation capture experiments, discerning the relationship between the 1D genome and 3D conformation remains a challenge, which limits our understanding of their affect on gene expression and disease. We propose Hi-C-LSTM, a method that produces low-dimensional latent representations that summarize intra-chromosomal Hi-C contacts via a recurrent long short-term memory (LSTM) neural network model. We find that these representations contain all the information needed to recreate the observed Hi-C matrix with high accuracy, outperforming existing methods. These representations enable the identification of a variety of conformation-defining genomic elements, including nuclear compartments and conformation-related transcription factors. They furthermore enable in-silico perturbation experiments that measure the influence of cis-regulatory elements on conformation.'
-date: 2021-10-01
-venue: 'Nature Communications'
-paperurl: 'https://assets.researchsquare.com/files/rs-878825/v1_covered.pdf?c=1633106140'
-citation: 'Dsouza, K., Maslova, A., Al-Jibury, E., Merkenschlager, M., Bhargava, V., & Libbrecht, M. (2021). Hi-C-LSTM: Learning representations of chromatin contacts using a recurrent neural network identifies genomic drivers of 3D genome conformation.'
+about: "Language Model"
+type: "NLP"
+permalink: /projects/vaelm
+date: 2018-10-04
 ---
+
+Language models have come of age recently with the introduction of Long-Short-Term-Memory based encoders, decoders and the advent of the attention mechanism. These models however work by generating one word at a time and cannot account for character level similarities and differences. In this project we propose a novel character based hierarchical variational autoencoder framework that can learn the word and sentence embeddings at the same time. We couple this with an attention mechanism over the latent word embeddings to realize the end-to-end autoencoder framework. 
+
+<p align="center">
+<img align="center" width=600 height=400 src="https://github.com/kevinbdsouza/kevinbdsouza.github.io/blob/master/files/vaelm.png?raw=true">
+</p>
+
+<a href="https://github.com/kevinbdsouza/VaeLM"><u>GitHub Repo</u></a>
+
+<a href="https://kevinbdsouza.files.wordpress.com/2021/11/vae.pdf"><u>Report</u></a
