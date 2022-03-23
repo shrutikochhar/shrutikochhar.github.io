@@ -3,8 +3,8 @@ title: "IoT Connected Valves for Irrigation of Greenhouse"
 collection: projects
 about: "Automation"
 type: "IOT"
-permalink: /projects/hp
-date: 2017-12-04
+permalink: /projects/eyantra
+date: 2015-08-04
 ---
 
 Summer Research Internship in the Embedded Real Time Systems (ERTS) Lab, Department of Computer Science, Indian Institute of Technology, Bombay (IITB). Developed a standalone system for the automation of IITB greenhouse irrigation using ESP8266 WiFi module and MQTT communication protocol with MOSCA as the broker.
