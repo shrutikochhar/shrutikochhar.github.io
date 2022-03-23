@@ -88,3 +88,9 @@ Service
   * Mentored high school students to inculcate in them aptitude and curiosity towards science.
 * Volunteer at Geneskool, Genome BC
   * Conducted workshops on the basics of genetics, traits and phenotypes for elementary grade students.
+
+Projects
+======
+  <ul>{% for post in site.projects reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
