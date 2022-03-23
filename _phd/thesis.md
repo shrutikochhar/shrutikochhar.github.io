@@ -11,26 +11,26 @@ In my Ph.D. research, we build informative genomic representations from epigenom
 
 ## Epi-LSTM
 <p align="center">
-<img align="center" src="https://github.com/kevinbdsouza/kevinbdsouza.github.io/blob/master/files/epi-lstm.png?raw=true">
+<img align="center" width=500 height=300 src="https://github.com/kevinbdsouza/kevinbdsouza.github.io/blob/master/files/epi-lstm.png?raw=true">
 </p>
 
 In the first part of my research, we employ sequential models to form representations of the epigenome and chromatin structure. The availability of thousands of epigenomic assays necessitates compressed representations that summarize the epigenetic landscape of the genome. Many methods have been proposed to form epigenomic representations [1, 2, 3, 4, 5]. Most existing methods produce celltype-specific representations which correspond poorly to conceptualizations of genomic elements. Joint methods aim to improve epigenomic representations by simultaneously using many cell types and sharing position-specific information between them [6, 7, 8, 9]. These methods are accurate but produce different representations for each cell type. On the other hand, stacked methods take data from all available cell types to produce pan-celltype representations, discrete [10, 11] or continuous [12, 13]. Avocado [12] uses separate embeddings for each genomic position, assay type, and cell type and couples this with a feed-forward network that infers unperformed assays. Towards forming pan-celltype epigenomic representations, we propose to improve upon existing feed-forward neural architectures [12] by using a deep long short-term memory (LSTM) [14] recurrent neural network autoencoder called Epi-LSTM [15] to capture the neighborhood dependencies in the epigenomic data. The latent representations from this model capture a variety of genomic phenomena, including frequently interacting regions, promoter-enhancer interactions, gene expression, evolutionary conservation, and replication timing. Moreover, the sequential nature of our model yields smoother epigenomic representations along the genomic axis.
 
 ## Hi-C-LSTM
 <p align="center">
-<img align="center" src="https://github.com/kevinbdsouza/kevinbdsouza.github.io/blob/master/files/hi-c-lstm.png?raw=true">
+<img align="center" width=500 height=300 src="https://github.com/kevinbdsouza/kevinbdsouza.github.io/blob/master/files/hi-c-lstm.png?raw=true">
 </p>
 
 While epigenomic assays detail the interaction of proteins with the genome, experiments like Hi-C [16, 17] identify genome-wide long-range interactions and enhance our understanding of genome organization by allowing us to analyze the resulting contact matrix using deep learning methods. MATCHA [18] uses hypergraph representation learning to locate multi-way interactions, while Akita [19] uses a convolutional neural network that predicts chromatin contacts from the nucleotide sequence alone and can be used to perform in-silico mutagenesis. Both these methods do not form pairwise Hi-C representations. SNIPER [20] uses a feed-forward network, and SCI [21] uses graph embedding to form Hi-C representations; however, they do not account for the sequential nature of the genome. SNIPER takes the inter-chromosomal contacts as input which, while helpful in locating domain-level structures, might not be the best suited for element-level usage. Moreover, both methods have not demonstrated the capability of performing in-silico mutagenesis. Towards forming position-specific intra-chromosomal representations, we propose to use a deep LSTM model called Hi-C-LSTM [22] that predicts the intra-chromosomal contacts from the pairwise node information.
 
 <p align="center">
-<img align="center" src="https://github.com/kevinbdsouza/kevinbdsouza.github.io/blob/master/files/map_tasks.png?raw=true">
+<img align="center" width=400 height=300 src="https://github.com/kevinbdsouza/kevinbdsouza.github.io/blob/master/files/map_tasks.png?raw=true">
 </p>
 
 The representations from our model capture a variety of genomic phenomena and distinguish genomic regions known to cluster in 3D space. Feature importance analysis also reveals association with genomic elements driving 3D conformation and transcription factors such as CCCTC-binding factor (CTCF) and cohesin subunits known to mediate chromatin conformation [23, 24, 25, 26]. A sequential contact generation model is a promising candidate to understand 3D chromatin conformation in light of the results obtained.
 
 <p align="center">
-<img align="center" src="https://github.com/kevinbdsouza/kevinbdsouza.github.io/blob/master/files/melo_fusion.png?raw=true">
+<img align="center" width=400 height=300 src="https://github.com/kevinbdsouza/kevinbdsouza.github.io/blob/master/files/melo_fusion.png?raw=true">
 </p>
 
 
@@ -38,19 +38,19 @@ To demonstrate that our chromatin conformation model is effective at contact gen
 
 ## Building Blocks
 <p align="center">
-<img align="center" src="https://github.com/kevinbdsouza/kevinbdsouza.github.io/blob/master/files/blocks.png?raw=true">
+<img align="center" width=500 height=300 src="https://github.com/kevinbdsouza/kevinbdsouza.github.io/blob/master/files/blocks.png?raw=true">
 </p>
 
 ## Structure 
 <p align="center">
-<img align="center" src="https://github.com/kevinbdsouza/kevinbdsouza.github.io/blob/master/files/structure.png?raw=true">
+<img align="center" width=500 height=300 src="https://github.com/kevinbdsouza/kevinbdsouza.github.io/blob/master/files/structure.png?raw=true">
 </p>
 
 Both the epigenomic model and the chromatin conformation model use an underlying sequential structure to model that genome; however, they differ in the task they are trying to accomplish. While our epigenomic sequential model reconstructs the epigenomic data given to it as input [15], our chromatin conformation model seeks to predict the pairwise contact data between nodes by using just the nodes’ positional information [22]. As expected, we observe that prediction is much more challenging than reconstruction because of the model’s lack of complete knowledge about the nature of continuous predictions it is trying to make. In the second part of my research, we aim to study these two tasks further and the crucial differences in their approach to creating genomic representations. Along with these tasks, we also include a third classification task, which involves forming representations by trying to classify genomic regions. These three tasks are fundamentally different, and studying the similarities and differences between the representations they form can provide us insights into the nature of epigenomic and chromatin conformation data.
 
 ## Node Classification 
 <p align="center">
-<img align="center" src="https://github.com/kevinbdsouza/kevinbdsouza.github.io/blob/master/files/graph_class.png?raw=true">
+<img align="center" width=500 height=300 src="https://github.com/kevinbdsouza/kevinbdsouza.github.io/blob/master/files/graph_class.png?raw=true">
 </p>
 
 
@@ -58,7 +58,7 @@ In the third and final part, we will employ graphical models to form representat
 
 ## Hi-C Graph Generation
 <p align="center">
-<img align="center" src="https://github.com/kevinbdsouza/kevinbdsouza.github.io/blob/master/files/graph_hic_generation.png?raw=true">
+<img align="center" width=500 height=300 src="https://github.com/kevinbdsouza/kevinbdsouza.github.io/blob/master/files/graph_hic_generation.png?raw=true">
 </p>
 
 
