@@ -58,7 +58,7 @@ In the third and final part, we will employ graphical models to form representat
 
 ## Hi-C Graph Generation
 <p align="center">
-<img align="center" width=500 height=300 src="https://github.com/kevinbdsouza/kevinbdsouza.github.io/blob/master/files/graph_hic_generation.png?raw=true">
+<img align="center" width=600 height=300 src="https://github.com/kevinbdsouza/kevinbdsouza.github.io/blob/master/files/graph_hic_generation.png?raw=true">
 </p>
 
 
