@@ -220,12 +220,30 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      share: false
+      comments: false
   # _publications
   - scope:
       path: ""
       type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _phd
+  - scope:
+      path: ""
+      type: phd
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comments: false
+  # _projects
+  - scope:
+      path: ""
+      type: projects
     values:
       layout: single
       author_profile: true
