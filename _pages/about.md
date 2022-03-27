@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year Ph.D. student at the University of British Columbia working on computational genomics. I am currently looking for internships/part time contract roles (with a possibility of extension) in Computational Biology, Machine Learning, Data Science and Software Development.
+I am a final year Ph.D. student at the University of British Columbia working on computational genomics. I am currently looking for internships/part time contract roles (with a possibility of extension) in Computational Biology, Global Priorities Research, Machine Learning, Data Science and Software Development.
 
 I completed my M.A.Sc while working with the information theory group at UBC. During this time, I interned with Skycope Technologies to build their data and machine learning infrastructure and integrate it into their existing software stack. I was responsible for setting up their database server and backend MySQL software for data extraction and manipulation. Skycope wanted to automatically detect narrowband drone signals in a wideband capture. In order to achieve this, I (along with a fellow intern) modified Faster-RCNN, an existing object detection framework, to successfully detect and locate drone signals in the spectrogram (<a href="https://kevinbdsouza.github.io/publications/frcnn"><u>published work</u></a>). Skycope is now using this as their flagship service in their automatic drone detection software.
 

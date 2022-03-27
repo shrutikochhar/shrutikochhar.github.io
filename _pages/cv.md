@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-I am a final year Ph.D. student at the University of British Columbia working on computational genomics. I am currently looking for internship/part time contract roles (with a possibility for extension) in Computational Biology, Machine Learning, Data Science and Software Development.
+I am a final year Ph.D. student at the University of British Columbia working on computational genomics. I am currently looking for internship/part time contract roles (with a possibility for extension) in Computational Biology, Global Priorities Research, Machine Learning, Data Science and Software Development.
 
 Education
 ======
