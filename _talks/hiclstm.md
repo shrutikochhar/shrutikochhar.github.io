@@ -1,5 +1,5 @@
 ---
-title: "Talks on Hi-C-LSTM"
+title: "Talks on Chromatin Conformation Representations"
 collection: talks
 type: "Talks"
 permalink: /talks/hiclstm

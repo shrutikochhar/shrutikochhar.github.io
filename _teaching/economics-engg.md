@@ -1,5 +1,5 @@
 ---
-title: "ELEC 481: Economic Analysis of Engineering Projects"
+title: "CPEN 481: Economic Analysis of Engineering Projects"
 collection: teaching
 type: "Course"
 permalink: /teaching/economics-engg

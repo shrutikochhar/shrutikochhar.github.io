@@ -1,5 +1,5 @@
 ---
-title: "Talks on Epi-LSTM"
+title: "Talks on Epigenomic Representations"
 collection: talks
 type: "Talks"
 permalink: /talks/epilstm
