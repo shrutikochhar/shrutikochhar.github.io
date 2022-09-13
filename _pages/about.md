@@ -21,6 +21,6 @@ Before my Ph.D., I completed my M.A.Sc while working with the information theory
 Apart from my research, I spend most of my time thinking about and engaging in the following:
 1. Creating support systems for children with autism spectrum disorder (ASD)
 2. Things related to climate change, including (a) physics and ML based climate modeling, (b) international collaboration and climate ploicy, (c) climate technolgies like CCS, DAC, and (d) alternative economic systems for the future. 
-3. I'm very interested in (d) and I'm currently reading about/looking into multi-agent systems simulations that can give insight into alternative economic theories and global co-operation(<a href="https://www.ai4climatecoop.org/"><u>climate co-operation</u></a>). 
+3. I'm very interested in (d) and I'm currently reading about/looking into multi-agent systems simulations that can give insight into alternative economic theories and global co-operation (<a href="https://www.ai4climatecoop.org/"><u>climate co-operation</u></a>). 
 
 You can reach out to me if you want to discuss any of the above, or any other ideas you may find interesting.
