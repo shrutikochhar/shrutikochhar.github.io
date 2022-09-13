@@ -3,7 +3,7 @@ title: "Rate Adaptation Algorithms in Dense Scenarios"
 collection: projects
 about: "MAC layer"
 type: "Rate Adaptation"
-permalink: /projects/hp
+permalink: /projects/raa
 date: 2017-12-04
 ---
 
