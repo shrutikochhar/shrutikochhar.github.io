@@ -8,51 +8,58 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-I am a final year Ph.D. student at the University of British Columbia working on computational genomics. I am currently looking for internship/part time contract roles (with a possibility for extension) in Computational Biology, Global Priorities Research, Machine Learning, Data Science and Software Development.
+ 
 
 Education
 ======
-* Ph.D. in Electrical and Computer Engineering (<span style="color:#2C4381">Thesis: Computational Models for Genomic Representations)</span>, The University of British Columbia, Vancouver, 2022 (expected)
-* M.A.Sc. in Electrical and Computer Engineering, The University of British Columbia, Vancouver, 2022
+* Ph.D. in Electrical and Computer Engineering (<span style="color:#2C4381">Thesis: Machine Learning Strategies for Genomic Representations)</span>, The University of British Columbia, Vancouver, Jan 2023 (expected)
+* M.A.Sc. in Electrical and Computer Engineering, The University of British Columbia, Vancouver, 2018
 * B.Tech. in Electronics and Communication Enginnering, National Institute of Technology Karnataka, India, 2017 
 
 Work experience
 ======
-* ## Ph.D. Research Assistant, The University of British Columbia <span style="color:#2C4381">(Jan 2019 - Current)</span>
-  * Currently my lab is working on building representations for the genome, mainly epigenomic and Hi-C representations 
-  * My thesis aims to unify recurrent and graph neural networks for learning representations of epigenomic signals (<a href="https://kevinbdsouza.github.io/publications/epilstm"><u>published work</u></a>) and 3D genome organization (<a href="https://kevinbdsouza.github.io/publications/hiclstm"><u>submitted work</u></a>)
-  * The representations from our models are useful for a variety of tasks like pan-celltype element identification, novel element detection, transfer learning to unseen cell types, inference of 3D chromatin structure, and in-silico modifications.
-  * The software for my research is written mostly in Python using PyTorch and CUDA. The software packages resulting from this work are available on <a href="https://github.com/kevinbdsouza"><u>GitHub</u></a>. We are working on cloud based deployment using GCP/AWS for future releases.
+* ## Ph.D. Candidate, The University of British Columbia <span style="color:#2C4381">(Jan 2019 - Current)</span> 
+  * My thesis studies learning strategies that can design representations for the <a href="https://kevinbdsouza.github.io/publications/epilstm"><u>epigenome</u></a> and <a href="https://kevinbdsouza.github.io/publications/hiclstm"><u>chromatin structure</u></a>
+  * These representations are useful for a variety of tasks like pan-celltype element identification, novel element detection, transfer learning to unseen cell types, inference of 3D chromatin structure, and in-silico modifications
+  * The software for my research is written in Python using PyTorch and CUDA. The software packages resulting from this work are available on <a href="https://github.com/kevinbdsouza"><u>GitHub</u></a>
   * **Supervisor**: Prof. Maxwell Libbrecht (<a href="https://www.libbrechtlab.com"><u>Libbrecht lab</u></a>) and Prof. Vijay Bhargava
+
+* ## Machine Learning Intern, <a href="https://www.gandeeva.com/"><u>Gandeeva Therapeutics</u></a> <span style="color:#2C4381">(Jan 2019 - Current)</span> 
+  * I designed proteins using sequence and structure based Machine Learning, protein folding tools, and protein language models
+  * **Manager**: Abhishek Mukopadhyay
 
 * ## Machine Learning Intern, Skycope Technologies <span style="color:#2C4381"> (May 2018 - Sep 2018)</span>
   * Built Skycope's data and machine learning infrastructure 
   * Set up Skycope's database server and backend MySQL software for data extraction and manipulation 
-  * Modified Faster-RCNN, an existing object detection framework, to successfully detect and locate drone signals in the spectrogram (<a href="https://kevinbdsouza.github.io/publications/frcnn"><u>published work</u></a>)
+  * Modified Faster-RCNN, an existing object detection framework, to successfully (<a href="https://kevinbdsouza.github.io/publications/frcnn"><u>detect and locate drone signals in the spectrogram</u></a>)
   * Integrated ML software into Skycope's existing software stack 
   * Skycope is now using this as their flagship service in their automatic drone detection software
   * **Supervisor**: Hamidreza Boostanimehr
 
 * ## M.A.Sc. Research Assistant, The University of British Columbia <span style="color:#2C4381"> (Sep 2017 - Dec 2018)</span>
   * Adopted deep learning frameworks for signal detection and developed hybrid precoding schemes for sequential data
-  * Used Python, PyTorch, and CUDA for deep learning. Hybrid precoding schemes were developed in C and MATLAB.
+  * Used Python, PyTorch, and CUDA for deep learning
   * **Supervisor**: Prof. Vijay Bhargava
 
   
 Skills
 ======
-* Coding 
-  * Python, R, C, C++, Linux, Git, MySQL, PostgreSQL
+* Computational Biology
 * Machine Learning 
-  * Deep Learning, Sequential Models, Representation Learning, Statistics, Regression, Random Forests
+  * Deep Learning, Transformers, Active Learning, Generative Modeling, Language Models, Sequential Models, Representation Learning, Statistics, Regression, Random Forests, Reinforcement Learning, Gaussian Processes, MCMC
+* Coding 
+  * Python, C, C++, Linux, Git, MySQL, PostgreSQL, R, Git
 * ML tools 
-  * PyTorch, GCP, CUDA, AWS, BigQuery, Numpy, Pandas, Scipy, Scikit-learn, Jupyter
+  * PyTorch, GCP, CUDA, AWS, XGBoost, BigQuery, Numpy, Pandas, Scipy, Scikit-learn, Jupyter, DVC, Plotly, OpenCV, S3, Docker
+* Biology 
+  * Protein Structure, Protein Design, Antibody Discovery, Antibody Engineering, Molecular Dynamics, FEP, Homology Modeling, Chromatin Structure, Docking, Epigenomics, NGS, Genomics, Transcriptomics, Multiomics, RNA-seq, ChIP-seq, Hi-C, ATAC-seq, scRNA-seq
+* Softwares
+  * OpenMM, Pymol, Chimera, Gromacs, Rosetta, AlphaFold, Schrodinger
+* Computational Chemistry
 * Data Science 
 * Bioinformatics
 * Software Development 
-* Biology 
-  * Chromatin Structure, Epigenomics, RNA-seq
+
 
 
 Publications
@@ -82,11 +89,10 @@ Service
   * The UBC Climate Hub aims to connect university and community stakeholders to take bold climate action for a just and equitable future
   * I worked with undergraduate students to find interdisciplinary approaches that contribute to climate awareness
 * Mentor at iGEM, UBC
-  * The International Genetically Engineered Machines (iGEM) Competition aims to produce organisms with unusual properties to tackle modern problems using synthetic biology. 
+  * The International Genetically Engineered Machines (iGEM) Competition aims to produce organisms with unusual properties to tackle modern problems using synthetic biology
   * I worked with undergraduate students to design a transcription-based biosensor that detects levels of saxitoxin, a toxin responsible for paralytic shellfish poisoning in humans
-* Volunteer at Lets Talk Science
-  * Mentored high school students to inculcate in them aptitude and curiosity towards science.
-* Volunteer at Geneskool, Genome BC
+* Volunteer at Lets Talk Science and Geneskool, Genome BC
+  * Mentored high school students to inculcate in them aptitude and curiosity towards science
   * Conducted workshops on the basics of genetics, traits and phenotypes for elementary grade students
 
 Projects
