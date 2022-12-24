@@ -10,7 +10,7 @@ redirect_from:
 
 Hi, welcome to my site!
 
-I am a final year Ph.D. student at the University of British Columbia working on computational genomics. I am currently looking for full-time roles in Computational Biology, Machine Learning, and Data Science. If you're looking for candidates and think I would be a good fit, do get in touch.  
+I am a final year Ph.D. student at the University of British Columbia working on using machine learning to understand and design biomolecules. I am currently looking for full-time roles in Computational Biology, Machine Learning, and Data Science. If you're looking for candidates and think I would be a good fit, do get in touch.  
 
 I recently worked as a Protein Design Intern at <a href="https://www.gandeeva.com/"><u>Gandeeva Therapeutics</u></a>, where I used sequence and structure based Machine Learning to design proteins. 
 

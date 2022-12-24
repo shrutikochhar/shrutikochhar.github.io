@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
  
+I am a final year Ph.D. student at the University of British Columbia working on using machine learning to understand and design biomolecules.
 
 Education
 ======
@@ -24,14 +25,14 @@ Work experience
   * The software for my research is written in Python using PyTorch and CUDA. The software packages resulting from this work are available on <a href="https://github.com/kevinbdsouza"><u>GitHub</u></a>
   * **Supervisor**: Prof. Maxwell Libbrecht (<a href="https://www.libbrechtlab.com"><u>Libbrecht lab</u></a>) and Prof. Vijay Bhargava
 
-* ## Machine Learning Intern, <a href="https://www.gandeeva.com/"><u>Gandeeva Therapeutics</u></a> <span style="color:#2C4381">(Jan 2019 - Current)</span> 
+* ## Machine Learning Intern, <a href="https://www.gandeeva.com/"><u>Gandeeva Therapeutics</u></a> <span style="color:#2C4381">(Jun 2022 - Dec 2022)</span> 
   * I designed proteins using sequence and structure based Machine Learning, protein folding tools, and protein language models
   * **Manager**: Abhishek Mukopadhyay
 
-* ## Machine Learning Intern, Skycope Technologies <span style="color:#2C4381"> (May 2018 - Sep 2018)</span>
+* ## Machine Learning Intern, <a href="https://www.skycope.com/"><u>Skycope Technologies</u></a> <span style="color:#2C4381"> (May 2018 - Sep 2018)</span>
   * Built Skycope's data and machine learning infrastructure 
   * Set up Skycope's database server and backend MySQL software for data extraction and manipulation 
-  * Modified Faster-RCNN, an existing object detection framework, to successfully (<a href="https://kevinbdsouza.github.io/publications/frcnn"><u>detect and locate drone signals in the spectrogram</u></a>)
+  * Modified Faster-RCNN, an existing object detection framework, to successfully <a href="https://kevinbdsouza.github.io/publications/frcnn"><u>detect and locate drone signals in the spectrogram</u></a>
   * Integrated ML software into Skycope's existing software stack 
   * Skycope is now using this as their flagship service in their automatic drone detection software
   * **Supervisor**: Hamidreza Boostanimehr
