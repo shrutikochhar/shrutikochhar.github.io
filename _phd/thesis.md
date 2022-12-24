@@ -1,5 +1,5 @@
 ---
-title: "Unification of Genomic Representations"
+title: "Machine Learning Strategies for Genomic Representations"
 collection: phd
 type: "Proposal"
 about: "Thesis"
@@ -7,7 +7,7 @@ permalink: /phd/thesis
 date: 2020-10-05
 ---
 
-In my Ph.D. research, we build informative genomic representations from epigenomic, functional, and structural genomic data, which will be position-specific and maybe celltype-specific or pan-celltype. These representations will be helpful for various tasks, including predicting known genomic phenomena, locating genomic elements that drive three-dimensional (3D) conformation, and inferring 3D chromatin structure. In the process of building these representations, we aim to study two broad classes of models that differ in the underlying structure they use to represent the genome, namely, sequential and graphical models which use deep neural networks. Borrowing techniques from deep learning that work on sequences and graphs, we analyze their suitability for different genomic datasets and tasks. The genome is heavily correlated with nearby positions, and folds in 3D space interacting with far-away positions. These two genomic properties render deep sequential and graphical models a natural choice to handle both epigenomic and structural genomic data. 
+In this Ph.D. thesis, we propose frameworks for designing informative position-specific representations from epigenomic and structural genomic data. In the process of designing these representations, we study two classes of strategies that differ in their underlying philosophy, namely, autoencoding and categorical encoding. Owing to the fact that the genome is heavily correlated with nearby positions, coupled with strategies of autoencoding and categorical encoding, we use recurrent priors. We demonstrate that the representations we learn are helpful for various tasks, including, locating known genomic elements, identifying conserved sites, correlating with known measures, enabling accurate decoding, finding elements that drive 3D conformation, and performing in-silico alterations. Finally, we show that the usefulness of the representations depends on the underlying strategies and structural priors used while designing the representations. 
 
 ## Epi-LSTM
 <p align="center">
