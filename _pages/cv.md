@@ -9,18 +9,22 @@ redirect_from:
 
 {% include base_path %}
  
-I am a final year Ph.D. student at the University of British Columbia working on using machine learning to understand and design biomolecules.
+I am a machine learning engineer at <a href="https://www.gandeeva.com/"><u>Gandeeva Therapeutics</u></a> working on using machine learning to understand and design biomolecules.
 
 Education
 ======
-* Ph.D. in Electrical and Computer Engineering (<span style="color:#2C4381">Thesis: Machine Learning Strategies for Genomic Representations)</span>, The University of British Columbia, Vancouver, Jan 2023 (expected)
+* Ph.D. in Electrical and Computer Engineering (<span style="color:#2C4381">Thesis: Representation Learning Strategies for the Epigenome and Chromatin Structure using Recurrent Neural Models)</span>, The University of British Columbia, Vancouver, Jan 2023 (expected)
 * M.A.Sc. in Electrical and Computer Engineering, The University of British Columbia, Vancouver, 2018
 * B.Tech. in Electronics and Communication Enginnering, National Institute of Technology Karnataka, India, 2017 
 
 Work experience
 ======
-* ## Ph.D. Candidate, The University of British Columbia <span style="color:#2C4381">(Jan 2019 - Current)</span> 
-  * My thesis studies learning strategies that can design representations for the <a href="https://kevinbdsouza.github.io/publications/epilstm"><u>epigenome</u></a> and <a href="https://kevinbdsouza.github.io/publications/hiclstm"><u>chromatin structure</u></a>
+* ## Machine Learning Engineer, <a href="https://www.gandeeva.com/"><u>Gandeeva Therapeutics</u></a> <span style="color:#2C4381">(Feb 2023 - Current)</span> 
+  * Desigining biomolecules
+  * **Manager**: Abhishek Mukopadhyay
+
+* ## Ph.D. Candidate, The University of British Columbia <span style="color:#2C4381">(Jan 2019 - Feb 2023)</span> 
+  * My thesis studied learning strategies that can design representations for the <a href="https://kevinbdsouza.github.io/publications/epilstm"><u>epigenome</u></a> and <a href="https://kevinbdsouza.github.io/publications/hiclstm"><u>chromatin structure</u></a>
   * These representations are useful for a variety of tasks like pan-celltype element identification, novel element detection, transfer learning to unseen cell types, inference of 3D chromatin structure, and in-silico modifications
   * The software for my research is written in Python using PyTorch and CUDA. The software packages resulting from this work are available on <a href="https://github.com/kevinbdsouza"><u>GitHub</u></a>
   * **Supervisor**: Prof. Maxwell Libbrecht (<a href="https://www.libbrechtlab.com"><u>Libbrecht lab</u></a>) and Prof. Vijay Bhargava
@@ -49,9 +53,9 @@ Skills
 * Machine Learning 
   * Deep Learning, Transformers, Active Learning, Generative Modeling, Language Models, Sequential Models, Representation Learning, Statistics, Regression, Random Forests, Reinforcement Learning, Gaussian Processes, MCMC
 * Coding 
-  * Python, C, C++, Linux, Git, MySQL, PostgreSQL, R, Git
+  * Python, C, C++, Linux, Git, MySQL
 * ML tools 
-  * PyTorch, GCP, CUDA, AWS, XGBoost, BigQuery, Numpy, Pandas, Scipy, Scikit-learn, Jupyter, DVC, Plotly, OpenCV, S3, Docker
+  * PyTorch, GCP, CUDA, AWS, XGBoost, Docker
 * Biology 
   * Protein Structure, Protein Design, Antibody Discovery, Antibody Engineering, Molecular Dynamics, FEP, Homology Modeling, Chromatin Structure, Docking, Epigenomics, NGS, Genomics, Transcriptomics, Multiomics, RNA-seq, ChIP-seq, Hi-C, ATAC-seq, scRNA-seq
 * Softwares
