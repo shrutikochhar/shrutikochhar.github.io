@@ -13,7 +13,7 @@ I am a machine learning engineer at <a href="https://www.gandeeva.com/"><u>Gande
 
 Education
 ======
-* Ph.D. in Electrical and Computer Engineering (<span style="color:#2C4381">Thesis: Representation Learning Strategies for the Epigenome and Chromatin Structure using Recurrent Neural Models)</span>, The University of British Columbia, Vancouver, Jan 2023 (expected)
+* Ph.D. in Electrical and Computer Engineering (<span style="color:#2C4381">Thesis: Representation Learning Strategies for the Epigenome and Chromatin Structure using Recurrent Neural Models)</span>, The University of British Columbia, Vancouver, 2023 
 * M.A.Sc. in Electrical and Computer Engineering, The University of British Columbia, Vancouver, 2018
 * B.Tech. in Electronics and Communication Enginnering, National Institute of Technology Karnataka, India, 2017 
 
@@ -51,13 +51,13 @@ Skills
 ======
 * Computational Biology
 * Machine Learning 
-  * Deep Learning, Transformers, Active Learning, Generative Modeling, Language Models, Sequential Models, Representation Learning, Statistics, Regression, Random Forests, Reinforcement Learning, Gaussian Processes, MCMC
+  * Deep Learning, Transformers, Active Learning, Generative Modeling, Language Models, Sequential Models, Representation Learning, Statistics, Regression, Random Forests, MCMC
 * Coding 
   * Python, C, C++, Linux, Git, MySQL
 * ML tools 
   * PyTorch, GCP, CUDA, AWS, XGBoost, Docker
 * Biology 
-  * Protein Structure, Protein Design, Antibody Discovery, Antibody Engineering, Molecular Dynamics, FEP, Homology Modeling, Chromatin Structure, Docking, Epigenomics, NGS, Genomics, Transcriptomics, Multiomics, RNA-seq, ChIP-seq, Hi-C, ATAC-seq, scRNA-seq
+  * Protein Structure, Protein Design, Antibody Engineering, Molecular Dynamics, FEP, Docking, Chromatin Structure, Epigenomics, NGS, Genomics, Transcriptomics, Multiomics, RNA-seq, ChIP-seq, Hi-C, scRNA-seq
 * Softwares
   * OpenMM, Pymol, Chimera, Gromacs, Rosetta, AlphaFold, Schrodinger
 * Computational Chemistry
