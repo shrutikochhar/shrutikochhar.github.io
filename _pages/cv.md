@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
  
-I am a machine learning engineer at <a href="https://www.gandeeva.com/"><u>Gandeeva Therapeutics</u></a> working on using machine learning to understand and design biomolecules.
+I am a machine learning engineer at <a href="https://www.gandeeva.com/"><u>Gandeeva Therapeutics</u></a> where I use machine learning to understand and design biomolecules.
 
 Education
 ======
@@ -20,8 +20,8 @@ Education
 Work experience
 ======
 * ## Machine Learning Engineer, <a href="https://www.gandeeva.com/"><u>Gandeeva Therapeutics</u></a> <span style="color:#2C4381">(Feb 2023 - Current)</span> 
-  * Desigining biomolecules
-  * **Manager**: Abhishek Mukopadhyay
+  * Integrated molecular dynamics based conformation search with deep learning based protein design for protein affinity maturation
+  * **Manager**: Abhishek Mukhopadhyay
 
 * ## Ph.D. Candidate, The University of British Columbia <span style="color:#2C4381">(Jan 2019 - Feb 2023)</span> 
   * My thesis studied learning strategies that can design representations for the <a href="https://kevinbdsouza.github.io/publications/epilstm"><u>epigenome</u></a> and <a href="https://kevinbdsouza.github.io/publications/hiclstm"><u>chromatin structure</u></a>
@@ -30,8 +30,8 @@ Work experience
   * **Supervisor**: Prof. Maxwell Libbrecht (<a href="https://www.libbrechtlab.com"><u>Libbrecht lab</u></a>) and Prof. Vijay Bhargava
 
 * ## Machine Learning Intern, <a href="https://www.gandeeva.com/"><u>Gandeeva Therapeutics</u></a> <span style="color:#2C4381">(Jun 2022 - Dec 2022)</span> 
-  * I designed proteins using sequence and structure based Machine Learning, protein folding tools, and protein language models
-  * **Manager**: Abhishek Mukopadhyay
+  * I designed antibodies using sequence and structure based Machine Learning, protein folding tools, and rosetta energy metrics
+  * **Manager**: Abhishek Mukhopadhyay
 
 * ## Machine Learning Intern, <a href="https://www.skycope.com/"><u>Skycope Technologies</u></a> <span style="color:#2C4381"> (May 2018 - Sep 2018)</span>
   * Built Skycope's data and machine learning infrastructure 
@@ -51,7 +51,7 @@ Skills
 ======
 * Computational Biology
 * Machine Learning 
-  * Deep Learning, Transformers, Active Learning, Generative Modeling, Language Models, Sequential Models, Representation Learning, Statistics, Regression, Random Forests, MCMC
+  * Deep Learning, Transformers, Active Learning, Generative Modeling, Language Models, Sequential Models, Representation Learning, Statistics, Regression, Gradient Boosted Trees, MCMC
 * Coding 
   * Python, C, C++, Linux, Git, MySQL
 * ML tools 
