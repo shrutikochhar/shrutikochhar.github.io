@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
  
-I am a machine learning engineer at <a href="https://www.gandeeva.com/"><u>Gandeeva Therapeutics</u></a> where I use machine learning to understand and design biomolecules.
+I am a machine learning engineer using machine learning/deep learning to understand and design biomolecules.
 
 Education
 ======
@@ -19,8 +19,11 @@ Education
 
 Work experience
 ======
-* ## Machine Learning Engineer, <a href="https://www.gandeeva.com/"><u>Gandeeva Therapeutics</u></a> <span style="color:#2C4381">(Feb 2023 - Current)</span> 
+* ## Machine Learning Engineer, <a href="https://www.gandeeva.com/"><u>Gandeeva Therapeutics</u></a> <span style="color:#2C4381">(Feb 2023 - May 2023)</span> 
   * Integrated molecular dynamics based conformation search with deep learning based protein design for protein affinity maturation
+  * Designed fusion helices to fuse two proteins of interest
+  * Implemented and tested sota interface scoring tools to drive in-house ppi prediction, aiding in target discovery
+  * Investigated pocket-specific small molecule generative design methods and usability of chemical language models for goal directed molecule generation.
   * **Manager**: Abhishek Mukhopadhyay
 
 * ## Ph.D. Candidate, The University of British Columbia <span style="color:#2C4381">(Jan 2019 - Feb 2023)</span> 

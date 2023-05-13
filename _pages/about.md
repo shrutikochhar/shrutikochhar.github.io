@@ -10,9 +10,9 @@ redirect_from:
 
 Hi, welcome to my site!
 
-I am actively looking for roles in the UK and Europe. Get in touch if you think I'm a good fit for a role or just want to chat about Computational Biology, Drug Discovery and Machine Learning.   
+I am actively looking for roles in UK and Canada, and am open to remote options. Get in touch if you think I'm a good fit for a role or just want to chat about Computational Biology, Drug Discovery and Machine Learning.   
 
-Currently, I am a machine learning engineer at <a href="https://www.gandeeva.com/"><u>Gandeeva Therapeutics</u></a> working on using machine learning to understand and design biomolecules. Before joining full time, I worked at Gandeeva as a Protein Design Intern. During this time, I used sequence and structure based Machine Learning to design antibodies. 
+Previosuly, I was a machine learning engineer at <a href="https://www.gandeeva.com/"><u>Gandeeva Therapeutics</u></a> working on using machine learning to understand and design biomolecules. Before joining full time, I worked at Gandeeva as a Protein Design Intern. During this time, I used sequence and structure based Machine Learning to design antibodies. 
 
 For my Ph.D., I worked with the computational biology group at Simon Fraser University, while also being funded by UBC. At the <a href="https://www.libbrechtlab.com"><u>Libbrecht lab</u></a>, I worked on building representations for the genome. My thesis studied learning strategies that can design representations for the <a href="https://kevinbdsouza.github.io/publications/epilstm"><u>epigenome</u></a> and <a href="https://kevinbdsouza.github.io/publications/hiclstm"><u>chromatin structure</u></a>. These representations are useful for a variety of tasks like pan-celltype element identification, novel element detection, transfer learning to unseen cell types, inference of 3D chromatin structure, and in-silico modifications. The software for my research is written in Python using PyTorch and CUDA. The software packages resulting from this work are available on <a href="https://github.com/kevinbdsouza"><u>GitHub</u></a>. 
 

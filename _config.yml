@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kevin Bradley Dsouza"
 title_separator          : "-"
 name                     : &name "Kevin Bradley Dsouza"
-description              : &description "Ph.D. student"
+description              : &description "Machine Learning Engineer"
 url                      : https://kevinbdsouza.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kevinbdsouza.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : ""
   avatar           : "kevin_ai.jpg"
-  bio              : "Ph.D. student studying Computational Genomics"
+  bio              : "Machine Learning Engineer"
   location         : "Vancouver"
   employer         : "University of British Columbia"
   pubmed           : 
