@@ -20,10 +20,13 @@ Education
 Work experience
 ======
 * ## Machine Learning Engineer, <a href="https://www.gandeeva.com/"><u>Gandeeva Therapeutics</u></a> <span style="color:#2C4381">(Feb 2023 - May 2023)</span> 
-  * Integrated molecular dynamics based conformation search with deep learning based protein design for protein affinity maturation
-  * Fused two proteins to create a synthetic construct for imaging amenability 
-  * Implemented and tested sota interface scoring tools to drive in-house ppi prediction, aiding in target discovery
-  * Investigated pocket-specific small molecule generative design methods and usability of chemical language models for goal directed molecule generation.
+  * Integrated molecular dynamics based conformation search with deep learning based protein design for protein affinity maturation. The designed protein sequences achieved SOTA success rate when tested in the lab. Gandeeva will use this platform for their future protein affinity maturation campaigns
+  * Fused two proteins to create synthetic constructs for Cryo-EM imaging amenability. 1/3 designed constructs showed desired properties when tested in the lab
+  * Tested SOTA interface scoring tools from CASP15 to drive in-house ppi prediction, which will significantly improve Gandeeva’s target discovery efforts
+  * Tested proof-of-concept target-potential binding partner interface recovery by using protein design to suggest favourable mutations on the potential binding partner. This will help Gandeeva recover weak but therapeutically relevant interfaces
+  * Investigated pocket-specific small molecule generative design methods and usability of chemical language models for goal directed molecule generation
+  * Provided initial ideation for AlphaFold based detection of intrinsically disordered protein regions
+  * Provided critical feedback on the in-house active learning+molecular docking workflow for virtual screening
   * **Manager**: Abhishek Mukhopadhyay
 
 * ## Ph.D. Candidate, The University of British Columbia <span style="color:#2C4381">(Jan 2019 - Feb 2023)</span> 
