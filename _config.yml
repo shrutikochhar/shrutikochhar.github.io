@@ -231,15 +231,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _phd
-  - scope:
-      path: ""
-      type: phd
-    values:
-      layout: single
-      author_profile: true
-      share: false
-      comments: false
   # _projects
   - scope:
       path: ""
