@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kevin Bradley Dsouza"
+title                    : "Shruti Kochhar"
 title_separator          : "-"
-name                     : &name "Kevin Bradley Dsouza"
-description              : &description "Machine Learning Engineer"
-url                      : https://kevinbdsouza.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Shruti Kochhar"
+description              : &description "Mental Health Policy Enthusiast"
+url                      : https://shrutikochhar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "kevinbdsouza.github.io"
+repository               : "shrutikochhar.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : ""
   avatar           : "kevin_ai.jpg"
-  bio              : "Machine Learning Engineer"
+  bio              : "Mental Health Policy Enthusiast"
   location         : "Vancouver"
-  employer         : "University of British Columbia"
+  employer         : "JMIR | UBC | Oxford"
   pubmed           : 
   googlescholar    : 
-  email            : "kevin@ece.ubc.ca"
+  email            : "shruti.kochhar@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
